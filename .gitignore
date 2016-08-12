@@ -65,3 +65,5 @@ releasenotes/build
 
 # Vagrant testing artifacts
 .vagrant
+
+*.retry
